@@ -20,7 +20,7 @@ obs: Se você mudar as classes ou as informações passadas nas classes e mandar
      será gerado um novo `.html` com as mudanças.
      Classe Movie para o filme Mestre dos Mares:
     
-     ```python
+```python
      mestre_mares = media.Movie("Mestre dos Mares",
                            "Em 1805, o CapitÃ£o Jack Aubreyand e Stephen " +
                            "Maturin sÃ£o ordenados a perseguir e capturar " +
@@ -32,8 +32,7 @@ obs: Se você mudar as classes ou as informações passadas nas classes e mandar
                            "https://images-na.ssl-images-amazon.com/" +
                            "images/I/51DEBDSPNFL.jpg",
                            "https://www.youtube.com/watch?v=KhNbvIUMaug")
-
-     ```
+```
      
  ## Outras Informações
   O arquivo `media.py` contém a declaração da classe Movie e o arquivo `fresh_tomatoes.py` 
