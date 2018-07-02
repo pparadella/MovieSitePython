@@ -18,7 +18,8 @@ Esse é um site sobre filmes que é gerado automaticamente através de código e
 
 obs: Se você mudar as classes ou as informações passadas nas classes e mandar rodar novamente
      será gerado um novo `.html` com as mudanças.
-     Classe Movie para o filme Mestre dos Mares:
+     
+   Classe Movie para o filme Mestre dos Mares:
     
 ```python
      mestre_mares = media.Movie("Mestre dos Mares",
