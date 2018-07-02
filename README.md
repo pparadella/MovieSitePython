@@ -1,12 +1,12 @@
 # Sobre
 Esse é um site sobre filmes que é gerado automaticamente através de código escrito em python.
 
-***
+
 ## Pré-Requisitos
 - [Python 2.7.9] (https://www.python.org/downloads/release/python-279/)
 - [Chrome Browser] (https://www.google.com/chrome/)
 
-***
+
 ## Gerando o site
 1. Clone esse repositório para o seu pc.
 
