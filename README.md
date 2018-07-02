@@ -3,8 +3,8 @@ Esse é um site sobre filmes que é gerado automaticamente através de código e
 
 
 ## Pré-Requisitos
-- [Python 2.7.9] (https://www.python.org/downloads/release/python-279/)
-- [Chrome Browser] (https://www.google.com/chrome/)
+- [Python 2.7.9](https://www.python.org/downloads/release/python-279)
+- [Chrome Browser](https://www.google.com/chrome)
 
 
 ## Gerando o site
