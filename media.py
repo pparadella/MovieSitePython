@@ -1,4 +1,5 @@
-import webbrowser
+#!/usr/bin/env python
+# coding: utf-8
 
 
 class Movie():
