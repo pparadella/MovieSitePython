@@ -1,8 +1,10 @@
+#!/usr/bin/env python
+# coding: utf-8
 import media
 import fresh_tomatoes
 
 
-# criando cada filme chamando a classe movie e passando informacoes
+# Objetos que contem informacoes para popular o site
 escola_rock = media.Movie("Escola de Rock",
                           "Um filme sobre um músico onde consegue" +
                           "um emprego pra ensinar crianças.",
@@ -66,7 +68,7 @@ senhor_aneis = media.Movie("Senhor dos Aneis",
                            "images/c/cd/LOTR1.jpg",
                            "https://www.youtube.com/watch?v=IUerKBZHnBs")
 
-# colocando os filmes numa array
+# Array para popular o site
 movies = [escola_rock, gladiador, jogos_vorazes,
           mestre_mares, matrix, senhor_aneis]
 # gerando o site a partir dos filmes na array
